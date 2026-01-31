@@ -1,7 +1,7 @@
 /*
 ----------------- 31/01/26 ----------------
 
-----------------  Lec 7 -- for loop in Golang  ----------------
+----------------  Lec 8 -- for loop in Golang  ----------------
 
 for is the only construct in golang for looping there is no while and do while
 */

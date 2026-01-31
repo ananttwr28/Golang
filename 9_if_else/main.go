@@ -1,7 +1,7 @@
 /*
 ----------------- 31/01/26 ----------------
 
-----------------  Lec 7 -- if else and input in Golang  ----------------
+----------------  Lec 9 -- if else and input in Golang  ----------------
 */
 
 package main
